@@ -1,0 +1,16 @@
+\let\oldprintchaptertitle=\printchaptertitle
+\renewcommand{\printchaptertitle}[1]{%
+	\vspace*{-75pt}
+	\oldprintchaptertitle{#1}
+}%
+\myChapterStar{Résumé}{}{section}
+\let\printchaptertitle=\oldprintchaptertitle
+Dans le domaine de la cybersécurité, le système de noms de domaine (DNS) est crucial pour traduire les noms de domaine lisibles par l’homme en adresses IP, mais son rôle essentiel en fait également une cible fréquente des cyberattaques. Les modèles de classification binaire traditionnels, qui classent le trafic DNS comme « bénin » ou « malveillant », sont limités dans leur capacité à fournir des renseignements détaillés sur les menaces, nécessaires à une atténuation efficace des menaces. Ce travail vise à résoudre ces limitations en utilisant les techniques Ml pour transformer le problème de classification binaire en un problème de classification multi-classes, permettant ainsi une détection plus nuancée de divers types d'attaques basées sur le DNS.
+Les principaux objectifs de cette recherche sont de prétraiter l'ensemble de données DNS, de mener une ingénierie approfondie des fonctionnalités grâce à une analyse de corrélation, d'appliquer des algorithmes d'apprentissage automatique (ML) tels que des algorithmes de clustering (DBSCAN) pour créer de nouvelles étiquettes de classe et de développer des modèles de classification multi-classes. Les modèles sont rigoureusement évalués à l’aide de mesures telles que l’exactitude, la précision, le rappel et le score F1. Ce modèle pourrait ensuite être déployé dans un environnement réel pour garantir son efficacité.
+Nos contributions incluent l’amélioration de la granularité de la classification du trafic DNS, l’amélioration des processus d’ingénierie des fonctionnalités et l’avancement de la recherche sur la cybersécurité. En tirant parti de techniques de clustering avancées et en créant de nouvelles étiquettes de classe, notre approche fournit des renseignements détaillés sur les menaces, permettant ainsi des stratégies de réponse plus efficaces et ciblées. De plus, en mettant nos méthodologies et nos résultats à disposition sous forme de ressources open source, nous favorisons la collaboration et accélérons le développement de solutions de cybersécurité efficaces.
+En conclusion, cette recherche transforme la classification binaire du trafic DNS en un problème de classification multi-classes, offrant des renseignements sur les menaces plus détaillés et plus exploitables. Cette approche globale améliore considérablement la détection et l'atténuation des attaques basées sur le DNS, renforçant ainsi la sécurité globale des systèmes réseau.
+
+\vspace{1cm}
+\noindent\textbf{Mots clés:} Cybersécurité, système de noms de domaine (DNS), trafic DNS, cyberattaques, classification binaire, classification multiclasse, apprentissage automatique (ML), ingénierie des fonctionnalités, analyse de corrélation, algorithmes de clustering DBSCAN, renseignement sur les menaces ; Exactitude, précision, rappel, score F1, attaques basées sur DNS Sécurité réseau.
+
+\myCleanStarChapterEnd

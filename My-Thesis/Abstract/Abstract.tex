@@ -1,0 +1,17 @@
+\let\oldprintchaptertitle=\printchaptertitle
+\renewcommand{\printchaptertitle}[1]{%
+	\vspace*{-75pt}
+	\oldprintchaptertitle{#1}
+}%
+\myChapterStar{Abstract}{}{section}
+\let\printchaptertitle=\oldprintchaptertitle
+
+
+In the field of cybersecurity, the Domain Name System (DNS) is crucial for translating human-readable domain names into IP addresses, but its essential role also makes it a frequent target for cyberattacks. Traditional binary classification models, which categorize DNS traffic as either "benign" or "malicious," are limited in providing detailed threat intelligence necessary for effective threat mitigation. This work aims to address these limitations by using Ml technics to transform the binary classification problem into a multi-class classification problem, thereby enabling more nuanced detection of various types of DNS-based attacks.
+The primary objectives of this research are to preprocess the DNS dataset, conduct thorough feature engineering through correlation analysis, apply machine learning(ML) algorithms like clustering algorithms(DBSCAN) to create new class labels, and develop multi-class classification models. The models are rigorously evaluated using metrics such as accuracy, precision, recall, and F1-score. This model could be then deployed in a real-world environment to ensure its effectiveness.
+Our contributions include enhancing the granularity of DNS traffic classification, improving feature engineering processes, and advancing the state of cybersecurity research. By leveraging advanced clustering techniques and creating new class labels, our approach provides detailed threat intelligence, enabling more effective and targeted response strategies. Furthermore, by making our methodologies and findings available as open-source resources, we foster collaboration and accelerate the development of effective cybersecurity solutions.
+In conclusion, this research transforms the binary classification of DNS traffic into a multi-class classification problem, offering more detailed and actionable threat intelligence. This comprehensive approach significantly improves the detection and mitigation of DNS-based attacks, ultimately enhancing the overall security of network systems.
+
+\vspace{1cm}
+\noindent\textbf{Keywords:} Cybersecurity, Domain Name System (DNS), DNS Traffic , Cyberattacks, Binary Classification, Multi-class Classification, Machine Learning (ML), Feature Engineering, Correlation Analysis, Clustering Algorithms DBSCAN ,Threat Intelligence; Accuracy, Precision, Recall, F1-score,DNS-based Attacks Network Security.
+\myCleanStarChapterEnd

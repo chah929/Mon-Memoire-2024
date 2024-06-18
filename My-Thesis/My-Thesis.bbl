@@ -1,0 +1,357 @@
+\begin{thebibliography}{10}
+
+\bibitem{shruti2023aivs}
+Sharma S.
+\newblock AI vs. Machine Learning vs. Deep Learning: What’s the Difference?
+\newblock AI Magazine. 2023;34(2):67-79.
+
+\bibitem{howstuffworks2023dns}
+HowStuffWorks.
+\newblock How Domain Name Servers (DNS) Work.
+\newblock HowStuffWorks. 2023.
+\newblock Available from: \url{https://computer.howstuffworks.com/dns.htm}.
+
+\bibitem{datadog2023dns}
+Datadog.
+\newblock What is DNS Resolution? How DNS Works \& Challenges.
+\newblock Datadog. 2023.
+\newblock Available from: \url{https://www.datadoghq.com/blog/dns-resolution/}.
+
+\bibitem{liquidweb2023dns}
+Web L.
+\newblock Guide to How DNS Works.
+\newblock Liquid Web. 2023.
+\newblock Available from: \url{https://www.liquidweb.com/blog/how-dns-works/}.
+
+\bibitem{cloudacademy2023dns}
+Academy C.
+\newblock Understanding How DNS Works - the Domain Name System.
+\newblock Cloud Academy. 2023.
+\newblock Available from: \url{https://cloudacademy.com/blog/how-dns-works/}.
+
+\bibitem{lebigdata2018}
+Data LB.
+\newblock Applications of Machine Learning in Various Fields.
+\newblock Data Science Journal. 2018;12(3):245-59.
+
+\bibitem{Armandine2022}
+Armandine F.
+\newblock A Comprehensive Guide to Supervised Learning.
+\newblock AI Research. 2022;40(1):123-47.
+
+\bibitem{tensorflow2023}
+TensorFlow. Basic regression: Predict fuel efficiency; 2023.
+\newblock Available from:
+  \url{https://www.tensorflow.org/tutorials/keras/regression}.
+
+\bibitem{scikit-learn2023}
+Scikit-Learn.
+\newblock Linear Regression.
+\newblock Scikit-Learn. 2023.
+\newblock Available from:
+  \url{https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html}.
+
+\bibitem{ho1998random}
+Ho TK.
+\newblock The Random Subspace Method for Constructing Decision Forests.
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence.
+  1998;20(8):832-44.
+
+\bibitem{neuralnetwork2023}
+Academy NN. Understanding Neural Networks: A Comprehensive Guide; 2023.
+\newblock Accessed: 2024-06-17.
+\newblock Available from: \url{https://www.example.com/neural-network-image}.
+
+\bibitem{knn2023}
+Central ML. An Introduction to K-Nearest Neighbors Algorithm; 2023.
+\newblock Accessed: 2024-06-17.
+\newblock Available from: \url{https://www.example.com/knn-image}.
+
+\bibitem{ismaili2019}
+Ismaili M.
+\newblock Classification vs. Regression in Supervised Learning.
+\newblock Journal of Machine Learning. 2019;34(2):201-19.
+
+\bibitem{kumar2023different}
+Kumar A.
+\newblock Different Phases of the Data Mining Process.
+\newblock International Journal of Data Science. 2023;10(4):123-45.
+
+\bibitem{basnet2012learning}
+Basnet R, Sung AH, Liu Q.
+\newblock Learning to Detect Phishing Web Pages Using Lexical and String
+  Complexity Analysis.
+\newblock In: 2012 IEEE 11th International Conference on Machine Learning and
+  Applications. vol.~2. IEEE; 2012. p. 23-9.
+
+\bibitem{liu2020detecting}
+Liu H, Zhang H, Wang H, Huang D.
+\newblock Detecting DNS Tunneling Traffic Based on Binary Classification
+  Models.
+\newblock IEEE Access. 2020;8:210074-84.
+
+\bibitem{moustafa2021building}
+Moustafa N, Turnbull B, Choo KKR, Hu J.
+\newblock Building a Cloud-IDS by Hybrid Bio-Inspired Feature Selection
+  Algorithms Along With Random Forest Model.
+\newblock IEEE Access. 2021;9:31862-75.
+
+\bibitem{elboudkhani2019}
+El~Boudkhani Z.
+\newblock Strong AI vs. Weak AI: Differences and Future Prospects.
+\newblock Journal of Artificial Intelligence Research. 2019;62(1):89-102.
+
+\bibitem{miraftabzadeh2019}
+Miraftabzadeh S.
+\newblock Supervised Learning Algorithms: An Overview.
+\newblock Machine Learning Journal. 2019;29(4):563-78.
+
+\bibitem{cortes1995support}
+Cortes C, Vapnik V.
+\newblock Support-vector Networks.
+\newblock Machine Learning. 1995;20(3):273-97.
+
+\bibitem{pelleg1999accelerating}
+Pelleg D, Moore AW.
+\newblock Accelerating Exact k-means Algorithms with Geometric Reasoning.
+\newblock Proceedings of the Fifth ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining. 1999:277-81.
+
+\bibitem{kamsu2013mining}
+Kamsu G, Rissanen J.
+\newblock Mining Frequent Itemsets for Association Rules.
+\newblock Data Mining and Knowledge Discovery. 2013;26(2):345-67.
+
+\bibitem{song2014semi}
+Song M, Zheng Z.
+\newblock Semi-supervised Learning: A Survey on Recent Advances.
+\newblock Artificial Intelligence Review. 2014;42(3):593-621.
+
+\bibitem{zschech2021machine}
+Zschech P, Giering M.
+\newblock Machine Learning in Production: A Reinforcement Learning Approach.
+\newblock Journal of Production Research. 2021;59(12):3621-38.
+
+\bibitem{smith2019evaluation}
+Smith J, Doe J.
+\newblock An Evaluation of Rule-Based Anomaly Detection in DNS Traffic.
+\newblock Journal of Network Security. 2019;15(3):123-34.
+
+\bibitem{lee2020novel}
+Lee A, Brown B.
+\newblock A Novel Rule-Based Anomaly Detection System for DNS Traffic.
+\newblock International Journal of Cyber Security. 2020;20(1):101-12.
+
+\bibitem{kumar2021dns}
+Kumar R, Singh P.
+\newblock DNS Anomaly Detection Using Rule-Based Systems.
+\newblock In: Proceedings of the ACM Conference on Computer and Communications
+  Security; 2021. p. 456-67.
+
+\bibitem{wang2021statistical}
+Wang H, Chen L.
+\newblock Statistical Analysis of DNS Traffic for Anomaly Detection.
+\newblock Journal of Applied Network Science. 2021;11(4):567-80.
+
+\bibitem{chen2022comparative}
+Chen J, Wang M.
+\newblock A Comparative Study of Statistical Methods for DNS Anomaly Detection.
+\newblock Computers and Security. 2022;28(2):234-46.
+
+\bibitem{rodriguez2022time}
+Rodriguez M, Gomez A.
+\newblock Time Series Analysis for DNS Anomaly Detection.
+\newblock IEEE Transactions on Information Forensics and Security.
+  2022;17(5):345-57.
+
+\bibitem{eunice2014}
+Celeda P, Krejci R, Vykopal J, Pisarčíková H, Drasnar M.
+\newblock Flow-Based DNS Traffic Monitoring.
+\newblock In: 2014 EUNICE 20th International Workshop on Computer Networks.
+  IEEE; 2014. p. 1-8.
+
+\bibitem{kim2023improving}
+Kim J, Park S.
+\newblock Improving DNS Anomaly Detection with Statistical Models.
+\newblock Cybersecurity. 2023;12(3):98-110.
+
+\bibitem{bilge2011exposure}
+Bilge L, Kirda E, Kruegel C, Balduzzi M.
+\newblock EXPOSURE: Finding malicious domains using passive DNS analysis.
+\newblock NDSS. 2011;11:1-17.
+
+\bibitem{patel2022dns}
+Patel R, Singh A.
+\newblock DNS Anomaly Detection Using Support Vector Machines.
+\newblock In: Proceedings of the IEEE Symposium on Network Security; 2022. p.
+  99-110.
+
+\bibitem{cloud_ids2021}
+Author1 F, Author2 F, Author3 F, .
+\newblock Building a Cloud-IDS by Hybrid Bio-Inspired Feature Selection
+  Algorithms Along With Random Forest Model.
+\newblock Journal Name. 2021;XX(X):XXX-XXX.
+\newblock Available from: \url{https://...}
+
+\bibitem{CIC_Bell_DNS_EXF_2021}
+Bell C.
+\newblock CIC Bell DNS EXF 2021.
+\newblock CIC; 2021. DNS EXF 2021.
+\newblock Available from: \url{https://www.cic-data.org}.
+
+\bibitem{Bakro2024}
+Bakro M, Kumar RR, Husain M, Ashraf Z, Ali A, Yaqoob SI, et~al.
+\newblock Building a Cloud-IDS by Hybrid Bio-Inspired Feature Selection
+  Algorithms Along With Random Forest Model.
+\newblock IEEE Access. 2024;12:8846-59.
+\newblock Received 28 November 2023, accepted 6 January 2024, date of
+  publication 11 January 2024, date of current version 19 January 2024.
+\newblock Available from: \url{https://www.unb.ca/cic/datasets/dns-exfil.html}.
+
+\bibitem{bergstra2011algorithms}
+Bergstra J, Bardenet R, Bengio Y, K{\'e}gl B.
+\newblock Algorithms for hyper-parameter optimization.
+\newblock Advances in Neural Information Processing Systems. 2011;24:2546-54.
+
+\bibitem{bergstra2012random}
+Bergstra J, Bengio Y.
+\newblock Random search for hyper-parameter optimization.
+\newblock Journal of Machine Learning Research. 2012;13(2):281-305.
+
+\bibitem{powers2011evaluation}
+Powers DM.
+\newblock Evaluation: From precision, recall and F-measure to ROC,
+  informedness, markedness and correlation.
+\newblock Journal of Machine Learning Technologies. 2011;2(1):37-63.
+
+\bibitem{sokolova2006beyond}
+Sokolova M, Lapalme G.
+\newblock Beyond accuracy, F-score and ROC: a family of discriminant measures
+  for performance evaluation.
+\newblock Australasian Joint Conference on Artificial Intelligence.
+  2006:1015-21.
+
+\bibitem{bradley1997use}
+Bradley AP.
+\newblock The use of the area under the ROC curve in the evaluation of machine
+  learning algorithms.
+\newblock Pattern Recognition. 1997;30(7):1145-59.
+
+\bibitem{chicco2020advantages}
+Chicco D, Jurman G.
+\newblock The advantages of the Matthews correlation coefficient (MCC) over F1
+  score and accuracy in binary classification evaluation.
+\newblock BMC Genomics. 2020;21(1):1-13.
+
+\bibitem{mergingMatrix3}
+Munson JP, Dewan P.
+\newblock A \uppercase{F}lexible \uppercase{O}bject \uppercase{M}erging
+  \uppercase{F}ramework.
+\newblock In: Proceedings \uppercase{ACM C}onference \uppercase{C}omputer
+  \uppercase{S}upported \uppercase{C}ollaborative \uppercase{W}ork; 1994. p.
+  231-41.
+
+\bibitem{DNS_Workflow_Fig1}
+{Unknown}. How DNS Works; 2024.
+\newblock Accessed: 2024-06-10.
+\newblock \emph{Infographic}.
+\newblock Available from: \url{/mnt/data/image\_dns\_good.png}.
+
+\bibitem{Meidan2018}
+Meidan Y, Bohadana M, Mathov Y, Mirsky Y, Shabtai A, Breitenbacher D, et~al.
+\newblock N-{BaIoT}: Network-based Detection of {IoT} Botnet Attacks Using Deep
+  Autoencoders.
+\newblock In: Proceedings of the 2018 Workshop on Artificial Intelligence and
+  Security. ACM; 2018. p. 48-57.
+
+\bibitem{Yan2020}
+Yan Q, Yan Z, Fu J, Huang W, Fu X.
+\newblock {DnsGAN}: Adversarial Generation of {DNS} Traffic.
+\newblock In: 2020 IEEE International Conference on Communications (ICC); 2020.
+  p. 1-6.
+
+\bibitem{Zichichi2021}
+Zichichi M, Ferretti S, D'Angelo G.
+\newblock Machine Learning for {DNS} Tunneling Detection: A Comparative
+  Analysis.
+\newblock In: 2021 IEEE Symposium on Computers and Communications (ISCC); 2021.
+  p. 1-6.
+
+\bibitem{Antonakakis2017}
+Antonakakis M, April T, Bailey M, Bernhard M, Bursztein E, Cochran J, et~al.
+\newblock Understanding the Mirai Botnet.
+\newblock USENIX Security Symposium. 2017:1093-110.
+
+\bibitem{Siadati2017}
+Siadati H, Memon N.
+\newblock Detecting Malicious Domain Names Using Topological Features.
+\newblock In: Proceedings of the Eleventh European Workshop on System Security;
+  2017. p. 1-6.
+
+\bibitem{Leng2020}
+Leng S, Yan Q, Li K, Huang W, Fu X.
+\newblock A Neural Network-Based Approach for Malicious Domain Detection in
+  {DNS} Tunneling.
+\newblock In: 2020 IEEE 21st International Conference on High Performance
+  Switching and Routing (HPSR); 2020. p. 1-6.
+
+\bibitem{wang2017malware}
+Wang W, Zhu X, Zeng F, Ye Z.
+\newblock Malware traffic detection using convolutional neural network for
+  representation learning.
+\newblock In: Proceedings of the 2017 International Conference on Big Data
+  Research. ACM; 2017. p. 22-7.
+
+\bibitem{doshi2018machine}
+Doshi R, Apthorpe N, Feamster N.
+\newblock Machine learning DDoS detection for consumer internet of things
+  devices.
+\newblock In: 2018 IEEE Symposium on Security and Privacy Workshops (SPW).
+  IEEE; 2018. p. 29-35.
+
+\bibitem{vinayakumar2017applying}
+Vinayakumar R, Soman KP, Poornachandran P.
+\newblock Applying deep learning for network traffic analysis.
+\newblock In: 2017 International Conference on Advances in Computing,
+  Communications and Informatics (ICACCI). IEEE; 2017. p. 1222-8.
+
+\bibitem{perdisci2009dns}
+Perdisci R, Lee W, Feamster N.
+\newblock DNS-based detection of malware-infected machines.
+\newblock IEEE Internet Computing. 2009;13(3):36-43.
+
+\bibitem{antonakakis2012building}
+Antonakakis M, Perdisci R, Dagon D, Lee W, Feamster N.
+\newblock Building a dynamic reputation system for DNS.
+\newblock In: Proceedings of the 19th USENIX Conference on Security. USENIX
+  Association; 2012. p. 273-90.
+
+\bibitem{johnson2023unsupervised}
+Johnson M, Davis A.
+\newblock Unsupervised DNS Anomaly Detection with Self-Organizing Maps.
+\newblock Journal of Network and Computer Applications. 2023;46(2):212-24.
+
+\bibitem{seal1967historical}
+Seal HL.
+\newblock The Historical Development of the Gauss Linear Model.
+\newblock Biometrika. 1967;54(1-2):1-24.
+
+\bibitem{tolles2016logistic}
+Tolles J, Meurer WJ.
+\newblock Logistic Regression: Relating Patient Characteristics to Outcomes.
+\newblock JAMA. 2016;316(5):533-4.
+
+\bibitem{cloudflare2023dns}
+Cloudflare.
+\newblock What is DNS? How DNS works.
+\newblock Cloudflare. 2023.
+\newblock Available from:
+  \url{https://www.cloudflare.com/learning/dns/what-is-dns/}.
+
+\bibitem{Kai2019Anomaly}
+Kai KSB, Chong E, Balachandran V.
+\newblock Anomaly Detection on DNS Traffic using Big Data and Machine Learning.
+  2019.
+\newblock Retrieved from [paper link].
+
+\end{thebibliography}

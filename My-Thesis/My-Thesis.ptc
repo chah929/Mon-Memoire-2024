@@ -1,0 +1,220 @@
+\changetocdepth {3}
+\babel@toc {english}{}\relax
+\contentsline {section}{ \hspace {-0.55cm}Dedications }{ii}{chapter*.2}%
+\contentsline {section}{ \hspace {-0.55cm}Acknowledgements }{iii}{chapter*.3}%
+\contentsline {section}{ \hspace {-0.55cm}Table of Contents }{iv}{chapter*.3}%
+\contentsline {section}{ \hspace {-0.55cm}List of Symbols }{vii}{chapter*.5}%
+\contentsline {section}{ \hspace {-0.55cm}List of Acronyms }{viii}{chapter*.6}%
+\contentsline {section}{ \hspace {-0.55cm}List of Tables }{ix}{chapter*.6}%
+\contentsline {section}{ \hspace {-0.55cm}List of Figures }{x}{section*.7}%
+\contentsline {section}{ \hspace {-0.55cm}Résumé }{xi}{chapter*.9}%
+\contentsline {section}{ \hspace {-0.55cm}Abstract }{xiv}{chapter*.11}%
+\contentsline {chapter}{ \hspace {-0.25cm}General introduction }{1}{chapter*.12}%
+\ttl@starttoc {chapters@1}
+\ttl@starttoc {chapters@1}
+\contentsline {section}{ \hspace {-0.55cm}Context of work }{1}{section*.13}%
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@1}
+\contentsline {section}{ \hspace {-0.55cm}Problem statement }{2}{section*.14}%
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@1}
+\contentsline {section}{ \hspace {-0.55cm}Research hypothesis }{2}{section*.15}%
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@1}
+\contentsline {section}{ \hspace {-0.55cm} Objectives }{2}{section*.16}%
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@1}
+\contentsline {section}{ \hspace {-0.55cm}Our contribution }{3}{section*.17}%
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@1}
+\contentsline {section}{ \hspace {-0.55cm}Work outline }{4}{section*.18}%
+\ttl@stoptoc {chapters@1}
+\contentsline {chapter}{\chapternumberline {I}Domain Name System and Machine Learning}{6}{chapter.1}%
+\ttl@stoptoc {chapters@1}
+\ttl@starttoc {chapters@2}
+\ttl@starttoc {chapters@2}
+\contentsline {section}{\numberline {I.1}Introduction}{6}{section.1.1}%
+\ttl@stoptoc {chapters@2}
+\ttl@starttoc {chapters@2}
+\contentsline {section}{\numberline {I.2}Overview of DNS}{7}{section.1.2}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.2.1}Basic concepts}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {I.2.2}DNS hierarchy:}{7}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {I.2.3}DNS-components}{8}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {I.2.4}DNS records:}{8}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {I.2.5}DNS anomalies}{11}{subsection.1.2.5}%
+\contentsline {subsubsection}{\numberline {I.2.5.1} Point anomaly}{11}{subsubsection.1.2.5.1}%
+\contentsline {subsubsection}{\numberline {I.2.5.2} Contextual anomaly}{12}{subsubsection.1.2.5.2}%
+\contentsline {subsubsection}{\numberline {I.2.5.3} Collective anomaly}{12}{subsubsection.1.2.5.3}%
+\contentsline {subsubsection}{\numberline {I.2.5.4} Seasonal anomaly}{12}{subsubsection.1.2.5.4}%
+\contentsline {subsubsection}{\numberline {I.2.5.5} Spatial anomaly}{12}{subsubsection.1.2.5.5}%
+\contentsline {subsubsection}{\numberline {I.2.5.6} Behavioral anomaly}{12}{subsubsection.1.2.5.6}%
+\contentsline {subsection}{\numberline {I.2.6}DNS Attacks}{12}{subsection.1.2.6}%
+\contentsline {subsubsection}{\numberline {I.2.6.1}Man-in-the-middle (MitM) attack}{12}{subsubsection.1.2.6.1}%
+\contentsline {subsubsection}{\numberline {I.2.6.2}DNS Spoofing (DNS Cache Poisoning)}{13}{subsubsection.1.2.6.2}%
+\contentsline {subsubsection}{\numberline {I.2.6.3}DoS and DDos attacks}{14}{subsubsection.1.2.6.3}%
+\contentsline {subsubsection}{\numberline {I.2.6.4}DNS Tunneling}{14}{subsubsection.1.2.6.4}%
+\contentsline {subsubsection}{\numberline {I.2.6.5}Cache Poisoning}{15}{subsubsection.1.2.6.5}%
+\ttl@starttoc {chapters@2}
+\contentsline {section}{\numberline {I.3}Types of Artificial Intelligence}{16}{section.1.3}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.3.1}Weak Artificial Intelligence}{16}{subsection.1.3.1}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.3.2}Strong or General Artificial Intelligence}{16}{subsection.1.3.2}%
+\ttl@stoptoc {chapters@2}
+\ttl@starttoc {chapters@2}
+\contentsline {section}{\numberline {I.4}Machine Learning}{16}{section.1.4}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.4.1}Supervised Learning}{18}{subsection.1.4.1}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.4.2}Unsupervised Learning}{20}{subsection.1.4.2}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.4.3}Semi-supervised Learning}{22}{subsection.1.4.3}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.4.4}Reinforcement Learning}{22}{subsection.1.4.4}%
+\ttl@stoptoc {chapters@2}
+\ttl@starttoc {chapters@2}
+\contentsline {section}{\numberline {I.5}Data Mining}{22}{section.1.5}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.5.1}Data Mining Process and Operation}{23}{subsection.1.5.1}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.5.2}Data Mining Techniques}{25}{subsection.1.5.2}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.5.3}Importance of Data Mining}{26}{subsection.1.5.3}%
+\ttl@stoptoc {chapters@2}
+\contentsline {subsection}{\numberline {I.5.4}Applications of Data Mining}{26}{subsection.1.5.4}%
+\ttl@stoptoc {chapters@2}
+\ttl@starttoc {chapters@2}
+\contentsline {section}{\numberline {I.6}Conclusion}{27}{section.1.6}%
+\ttl@stoptoc {chapters@2}
+\contentsline {chapter}{\chapternumberline {II}State of the Art on Anomaly Detection in DNS Transactions}{28}{chapter.2}%
+\ttl@stoptoc {chapters@2}
+\ttl@starttoc {chapters@3}
+\ttl@starttoc {chapters@3}
+\contentsline {section}{\numberline {II.1}Introduction}{28}{section.2.1}%
+\ttl@stoptoc {chapters@3}
+\ttl@starttoc {chapters@3}
+\contentsline {section}{\numberline {II.2}Traditional Anomaly Detection Techniques}{28}{section.2.2}%
+\ttl@stoptoc {chapters@3}
+\contentsline {subsection}{\numberline {II.2.1}signature-based system}{29}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {II.2.2}statistical methods}{29}{subsection.2.2.2}%
+\ttl@starttoc {chapters@3}
+\contentsline {section}{\numberline {II.3}Machine Learning-Based Techniques in binary and multiple classification}{31}{section.2.3}%
+\ttl@stoptoc {chapters@3}
+\ttl@starttoc {chapters@3}
+\contentsline {section}{\numberline {II.4}Supervised machine learning solution of binary classification of ;;;;}{31}{section.2.4}%
+\ttl@stoptoc {chapters@3}
+\ttl@starttoc {chapters@3}
+\contentsline {section}{\numberline {II.5}supervised learning solution of multiple classification of bakro et al.}{32}{section.2.5}%
+\ttl@stoptoc {chapters@3}
+\contentsline {subsection}{\numberline {II.5.1}performance metrics}{32}{subsection.2.5.1}%
+\ttl@starttoc {chapters@3}
+\contentsline {section}{\numberline {II.6}Conclusion}{32}{section.2.6}%
+\ttl@stoptoc {chapters@3}
+\contentsline {chapter}{\chapternumberline {III}Contribution to Machine Learning-Based Anomaly Detection for DNS Transactions}{33}{chapter.3}%
+\ttl@stoptoc {chapters@3}
+\ttl@starttoc {chapters@4}
+\ttl@starttoc {chapters@4}
+\contentsline {section}{\numberline {III.1}Introduction}{33}{section.3.1}%
+\ttl@stoptoc {chapters@4}
+\ttl@starttoc {chapters@4}
+\contentsline {section}{\numberline {III.2}Contribution To Binary Classification}{34}{section.3.2}%
+\ttl@stoptoc {chapters@4}
+\contentsline {subsection}{\numberline {III.2.1}datasets and description}{34}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {III.2.2}model architecture and description}{35}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {III.2.3}Architecture description and preprocessing}{37}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {III.2.3.1}Read data from dataset}{37}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {III.2.3.2}Mapping classes}{37}{subsubsection.3.2.3.2}%
+\contentsline {paragraph}{Handling Missing Values}{38}{table.caption.45}%
+\contentsline {paragraph}{Data tokenization}{39}{figure.caption.46}%
+\contentsline {paragraph}{Data labeling and resizing}{39}{figure.caption.47}%
+\contentsline {paragraph}{Addressing the imbalanced nature of our training data}{39}{figure.caption.47}%
+\contentsline {paragraph}{Anomaly Detection and Handling}{40}{figure.caption.48}%
+\contentsline {paragraph}{Standardization and Normalization}{40}{figure.caption.48}%
+\contentsline {subsubsection}{\numberline {III.2.3.3}Feature Selection Process}{41}{subsubsection.3.2.3.3}%
+\contentsline {paragraph}{Correlation Analysis: \\}{41}{subsubsection.3.2.3.3}%
+\contentsline {paragraph}{Genetic Optimal Algorithm - Genetic Optimization (GOA-GO):\\}{41}{subsubsection.3.2.3.3}%
+\contentsline {subsection}{\numberline {III.2.4}Model Development and Training}{43}{subsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {III.2.4.1}Selection of Machine Learning Algorithms}{43}{subsubsection.3.2.4.1}%
+\contentsline {paragraph}{Support Vector Machines (SVM)}{43}{subsubsection.3.2.4.1}%
+\contentsline {paragraph}{Random Forest}{43}{subsubsection.3.2.4.1}%
+\contentsline {paragraph}{Rationale for Choosing the Final Model(s)}{44}{subsubsection.3.2.4.1}%
+\contentsline {subsubsection}{\numberline {III.2.4.2}Training Process}{45}{subsubsection.3.2.4.2}%
+\contentsline {paragraph}{Data Splitting}{45}{subsubsection.3.2.4.2}%
+\contentsline {paragraph}{Model Training}{45}{subsubsection.3.2.4.2}%
+\contentsline {paragraph}{Validation}{46}{subsubsection.3.2.4.2}%
+\contentsline {paragraph}{Testing}{47}{subsubsection.3.2.4.2}%
+\contentsline {paragraph}{Conclusion of Training Process}{47}{subsubsection.3.2.4.2}%
+\contentsline {subsubsection}{\numberline {III.2.4.3}Hyperparameter Tuning}{47}{subsubsection.3.2.4.3}%
+\contentsline {paragraph}{Grid Search}{47}{subsubsection.3.2.4.3}%
+\contentsline {paragraph}{Random Search}{48}{subsubsection.3.2.4.3}%
+\contentsline {paragraph}{Application in Our Study}{48}{subsubsection.3.2.4.3}%
+\contentsline {paragraph}{Evaluation and Selection}{49}{subsubsection.3.2.4.3}%
+\contentsline {paragraph}{Conclusion of Hyperparameter Tuning}{49}{subsubsection.3.2.4.3}%
+\contentsline {subsubsection}{\numberline {III.2.4.4}Evaluation Metrics}{49}{subsubsection.3.2.4.4}%
+\contentsline {paragraph}{Accuracy}{50}{subsubsection.3.2.4.4}%
+\contentsline {paragraph}{Precision}{50}{subsubsection.3.2.4.4}%
+\contentsline {paragraph}{Recall}{50}{subsubsection.3.2.4.4}%
+\contentsline {paragraph}{F1-Score}{50}{subsubsection.3.2.4.4}%
+\contentsline {paragraph}{Area Under the ROC Curve (AUC-ROC)}{50}{subsubsection.3.2.4.4}%
+\contentsline {paragraph}{Matthews Correlation Coefficient (MCC)}{51}{subsubsection.3.2.4.4}%
+\contentsline {paragraph}{Conclusion of Evaluation Metrics}{51}{subsubsection.3.2.4.4}%
+\contentsline {subsection}{\numberline {III.2.5}Model Performance and Results}{51}{subsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {III.2.5.1}Confusion Matrix}{51}{subsubsection.3.2.5.1}%
+\contentsline {subsubsection}{\numberline {III.2.5.2}Evaluation Metrics}{51}{subsubsection.3.2.5.2}%
+\contentsline {subsubsection}{\numberline {III.2.5.3}Deployment Considerations}{52}{subsubsection.3.2.5.3}%
+\contentsline {paragraph}{Conclusion of Model Performance and Results}{52}{subsubsection.3.2.5.3}%
+\ttl@starttoc {chapters@4}
+\contentsline {section}{\numberline {III.3}Contribution To Multiple Classification}{53}{section.3.3}%
+\ttl@stoptoc {chapters@4}
+\contentsline {subsection}{\numberline {III.3.1}Binary Datasets and description}{53}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {III.3.2}Model architecture and description}{54}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {III.3.3}Data Ingestion and Preprocessing}{57}{subsection.3.3.3}%
+\contentsline {paragraph}{Load Data}{57}{subsection.3.3.3}%
+\contentsline {paragraph}{Handle Missing Values}{57}{subsection.3.3.3}%
+\contentsline {paragraph}{Remove Duplications}{57}{subsection.3.3.3}%
+\contentsline {paragraph}{Normalization}{57}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {III.3.4}Exploratory Data Analysis}{58}{subsection.3.3.4}%
+\contentsline {paragraph}{Correlation Analysis}{58}{subsection.3.3.4}%
+\contentsline {paragraph}{Data Visualization}{58}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {III.3.5}Feature Engineering}{59}{subsection.3.3.5}%
+\contentsline {paragraph}{Creating New Features}{60}{subsection.3.3.5}%
+\contentsline {paragraph}{Feature Selection using GOA-GO}{60}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {III.3.6}Clustering Algorithm}{61}{subsection.3.3.6}%
+\contentsline {paragraph}{Applying Clusters for Creating New Classes}{61}{subsection.3.3.6}%
+\contentsline {paragraph}{DBSCAN Algorithm}{61}{subsection.3.3.6}%
+\contentsline {paragraph}{Generating New Class Labels}{62}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {III.3.7}Results of Clustering and Labeling}{63}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {III.3.8}Model Training and Evaluation}{64}{subsection.3.3.8}%
+\contentsline {paragraph}{Choice of Model: Random Forest}{64}{subsection.3.3.8}%
+\contentsline {paragraph}{Training the Model}{65}{subsection.3.3.8}%
+\contentsline {paragraph}{Evaluation Metrics}{65}{Item.40}%
+\contentsline {paragraph}{Confusion Matrix}{66}{Item.40}%
+\contentsline {paragraph}{Evaluation Metrics}{67}{figure.caption.54}%
+\ttl@starttoc {chapters@4}
+\contentsline {section}{\numberline {III.4}Results and discussions}{67}{section.3.4}%
+\ttl@stoptoc {chapters@4}
+\contentsline {subsubsection}{\numberline {III.4.0.1}Performance metrics}{67}{subsubsection.3.4.0.1}%
+\contentsline {subsubsection}{\numberline {III.4.0.2}Evaluation approach}{67}{subsubsection.3.4.0.2}%
+\contentsline {subsubsection}{\numberline {III.4.0.3}Comparison with related work}{67}{subsubsection.3.4.0.3}%
+\ttl@starttoc {chapters@4}
+\contentsline {section}{\numberline {III.5}Overall Comparison And Discussion}{67}{section.3.5}%
+\ttl@stoptoc {chapters@4}
+\contentsline {subsection}{\numberline {III.5.1}Comparison of binary and multiple classification results}{67}{subsection.3.5.1}%
+\ttl@starttoc {chapters@4}
+\contentsline {section}{\numberline {III.6}Conclusion}{67}{section.3.6}%
+\ttl@stoptoc {chapters@4}
+\contentsline {chapter}{ \hspace {-0.25cm}General conclusion }{68}{chapter*.56}%
+\ttl@stoptoc {chapters@4}
+\ttl@starttoc {chapters@5}
+\ttl@starttoc {chapters@5}
+\contentsline {section}{\numberline {III.7}Problem studied and Methodological choices}{68}{section.3.7}%
+\ttl@stoptoc {chapters@5}
+\ttl@starttoc {chapters@5}
+\contentsline {section}{\numberline {III.8}Critical analysis of the results obtained}{68}{section.3.8}%
+\ttl@stoptoc {chapters@5}
+\ttl@starttoc {chapters@5}
+\contentsline {section}{\numberline {III.9}Future Work}{68}{section.3.9}%
+\ttl@stoptoc {chapters@5}
+\contentsline {chapter}{Bibliography}{69}{chapter*.57}%
+\contentsfinish

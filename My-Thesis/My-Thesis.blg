@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: My-Thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+The style file: vancouver.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: bibliography.bib
+Warning--empty author and editor in tensorflow2023
+Warning--missing publisher in tensorflow2023
+Warning--empty author and editor in neuralnetwork2023
+Warning--missing publisher in neuralnetwork2023
+Warning--empty author and editor in knn2023
+Warning--missing publisher in knn2023
+Warning--empty author and editor in DNS_Workflow_Fig1
+Warning--missing publisher in DNS_Workflow_Fig1
+`journal' is a missing field, not a string, for entry Kai2019Anomaly
+while executing---line 1983 of file vancouver.bst
+Warning--empty journal in Kai2019Anomaly
+You've used 61 entries,
+            3507 wiz_defined-function locations,
+            1054 strings with 15234 characters,
+and the built_in function-call counts, 94491 in all, are:
+= -- 10184
+> -- 944
+< -- 828
++ -- 406
+- -- 187
+* -- 6496
+:= -- 10320
+add.period$ -- 242
+call.type$ -- 61
+change.case$ -- 33
+chr.to.int$ -- 1809
+cite$ -- 70
+duplicate$ -- 9020
+empty$ -- 9096
+format.name$ -- 184
+if$ -- 22372
+int.to.chr$ -- 0
+int.to.str$ -- 61
+missing$ -- 574
+newline$ -- 318
+num.names$ -- 61
+pop$ -- 1911
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1349
+stack$ -- 0
+substring$ -- 14599
+swap$ -- 1648
+text.length$ -- 336
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 9
+while$ -- 615
+width$ -- 63
+write$ -- 694
+(There was 1 error message)

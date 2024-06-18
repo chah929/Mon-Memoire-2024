@@ -1,0 +1,36 @@
+\babel@toc {english}{}\relax
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1}{\ignorespaces The domains of {AI} \cite {shruti2023aivs}.}}{7}{figure.caption.19}%
+\contentsline {figure}{\numberline {2}{\ignorespaces how dns resolution works}}{10}{figure.caption.20}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Man in the middle attack \cite {howstuffworks2023dns}}}{13}{figure.caption.22}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Cache poisoning \cite {datadog2023dns}}}{13}{figure.caption.23}%
+\contentsline {figure}{\numberline {5}{\ignorespaces DoS and DDoS attack \cite {liquidweb2023dns}}}{14}{figure.caption.24}%
+\contentsline {figure}{\numberline {6}{\ignorespaces DNS tunneling \cite {cloudacademy2023dns}}}{15}{figure.caption.25}%
+\contentsline {figure}{\numberline {7}{\ignorespaces cache poisonning\cite {datadog2023dns}}}{15}{figure.caption.26}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Weak AI vs.Strong AI}}{17}{figure.caption.27}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Applications of Machine Learning \cite {lebigdata2018}.}}{17}{figure.caption.28}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Supervised Learning \cite {Armandine2022}.}}{18}{figure.caption.29}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Supervised Learning}}{18}{figure.caption.30}%
+\contentsline {figure}{\numberline {12}{\ignorespaces regression Vs.classification\cite {tensorflow2023}}}{19}{figure.caption.31}%
+\contentsline {figure}{\numberline {13}{\ignorespaces linear regression\cite {scikit-learn2023}}}{19}{figure.caption.32}%
+\contentsline {figure}{\numberline {14}{\ignorespaces random forest\cite {ho1998random}}}{20}{figure.caption.33}%
+\contentsline {figure}{\numberline {15}{\ignorespaces neural network\cite {neuralnetwork2023}}}{20}{figure.caption.34}%
+\contentsline {figure}{\numberline {16}{\ignorespaces knn\cite {knn2023}}}{21}{figure.caption.35}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Unsupervised Learning \cite {ismaili2019}}}{21}{figure.caption.36}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Reinforcement learning \cite {ismaili2019}}}{23}{figure.caption.37}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Data Mining Process \cite {kumar2023different}}}{24}{figure.caption.38}%
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {20}{\ignorespaces Proposed binary architecture}}{35}{figure.caption.39}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Binary data preprocessing}}{36}{figure.caption.40}%
+\contentsline {figure}{\numberline {22}{\ignorespaces mapping process}}{37}{figure.caption.41}%
+\contentsline {figure}{\numberline {23}{\ignorespaces visualizing NaN values}}{38}{figure.caption.46}%
+\contentsline {figure}{\numberline {24}{\ignorespaces tokenization process}}{39}{figure.caption.47}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Distribution of classes before and after balancing}}{40}{figure.caption.48}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Confusion Matrix for the Random Forest Model with 98.34\% Accuracy}}{52}{figure.caption.49}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Proposed multi-class architecture}}{55}{figure.caption.51}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Multi-class data preprocessing }}{56}{figure.caption.52}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Class Distribution of "attack" Column}}{59}{figure.caption.53}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Confusion Matrix of the Multi-Class Model}}{66}{figure.caption.54}%
+\contentsfinish
+\contentsfinish

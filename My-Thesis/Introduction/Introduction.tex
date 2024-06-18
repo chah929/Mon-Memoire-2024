@@ -1,0 +1,69 @@
+%\myChapterStar{Titre}{Titre court}{Ajouter à la table des matières? (false|true|chapter|section|subsection|subsubsection -chapter par défaut-)}
+\myChapterStar{General introduction}{}{true}
+%\myMinitoc{Profondeur de la minitoc (section|subsection|subsubsection)}{Titre de la minitoc}
+\myMiniToc{}{Contents}
+
+%\mySectionStar{Titre}{Titre court}{Ajouter à la table des matières? (false|true|chapter|section|subsection|subsubsection -section par défaut-)}
+
+\mySectionStar{Context of work}{}{true}
+In the rapidly evolving landscape of cybersecurity, DNS (Domain Name System) plays a pivotal role as it is responsible for translating human-friendly domain names into IP addresses. This process is fundamental to the functioning of the internet. However, the ubiquity and criticality of DNS have also made it a frequent target for cyber-attacks. Attackers exploit DNS vulnerabilities to conduct a variety of malicious activities, including phishing, distributed denial-of-service (DDoS) attacks, and data exfiltration. As a result, monitoring and analyzing DNS traffic for signs of attack is essential for maintaining network security.
+In this context, machine learning has emerged as a powerful tool for enhancing DNS security. By analyzing patterns in DNS traffic, machine learning models can effectively distinguish between benign and malicious activities. Traditionally, these models have focused on binary classification, categorizing traffic as either "attack" or "benign." However, the complexity of modern cyber threats demands a more nuanced approach. This work seeks to extend the capabilities of DNS traffic analysis by transforming a binary classification problem into a multi-class classification problem, thereby enabling more granular detection and response to different types of DNS-based attacks.
+\mySectionStar{Problem statement}{}{true}
+The core problem addressed in this work is the limitation of binary classification models in providing detailed threat intelligence from DNS traffic data. While these models can indicate whether traffic is benign or malicious, they do not offer insights into the specific type of attack. This lack of granularity can impede effective response and mitigation efforts, as different attacks may require different handling strategies.
+
+To address this issue, this work proposes transforming the binary classification of DNS traffic into a multi-class classification problem. This involves not only detecting whether traffic is malicious but also identifying the specific type of attack. Achieving this requires a detailed analysis of DNS traffic features, the identification of relevant patterns and correlations, and the application of clustering techniques to uncover natural groupings within the data. These groupings can then be used to create new class labels, enhancing the classification model's ability to provide actionable insights.
+
+\mySectionStar{Research hypothesis}{}{true}
+The research hypothesis for this work is that transforming a binary DNS traffic
+classification model into a multi-class classification model will significantly improve the granularity and utility of threat detection and response. Specifically, it
+posits that by identifying and leveraging correlations between features within the
+DNS dataset, it is possible to create new, meaningful classes that enhance the model’s ability to distinguish between different types of attacks. This, in turn, will
+provide more detailed threat intelligence and improve the overall effectiveness of
+cybersecurity measures.
+
+
+\mySectionStar{ Objectives}{}{true}
+ The general objective of this research is to develop an anomaly detection method for DNS transactions using multi-class classification and DBSCAN clustering to improve the precision,accuracy and reliability of detection compared to traditional binary classification. Specifically, the following are the specific objectives of this work:\\
+
+\begin{itemize}
+    \item Analyze the limitations of binary classification in DNS anomaly detection.
+
+\item  Apply the DBSCAN clustering algorithm on the DNS transaction dataset to identify patterns and anomaly clusters.\\
+\item Perform feature engineering based on clustering results to enrich the data and better characterize transactions.\\
+\item Develop and train multi-class classification models to detect anomalies.\\
+\item Compare the performance of multi-class models with binary models using appropriate metrics (precision, recall, F1-score).\\
+\item Review the results against existing literature on DNS anomaly detection.
+\end{itemize}
+\mySectionStar{Our contribution}{}{true}
+Our contributions lies on a good number of points which are listed below:
+There are several works on DNS detection and classification going from traditional to
+machine and deep learning techniques. As for machine learning techniques, we have
+for example, Dharmaraj Patil et al.\cite{basnet2012learning} who proposed a binary phishing detection method using lexical and string complexity analysis of URLs, employing Confidence Weighted (CW) and Adaptive Regularization of Weight Vectors (AROW) classifiers to achieve high accuracy and efficiency. Again,Hanghang Liu et Haoran Zhang\cite{liu2020detecting}
+proposed a method of detecting DNS tunelling traffic using binary classification model using SVM,RF and obtained high accuracy with SVM 99.66\%. On the other hand,M.Bakro et al \cite{moustafa2021building}Proposed a hybrid feature selection technic combining GOA and GA algorithm to proper select features in other to have proper informations about all features where they later applied their method on three rescent datasets to test the performance of their model. 
+Our contribution include:\\
+\begin{itemize}
+    \item{Improving anomaly detection by proposing and architecture that intergrates DBSCAN clustering which reduces false positive and negative rates and improves classification accuracy on several dataset as compared to existing works. }\\
+\end{itemize}
+  \begin{itemize}
+      \item{New insights for feature engineering are also promoted since DBSCAN clustering helps identify structures in the dataset that are not visible hence enriching feature engineering and data for more precise analysis.}
+  \end{itemize}
+    
+\begin{itemize}
+    \item{Methodological approach by combining clustering and multi-class classification offers a new methodology for anomaly detection in environments with limited feature information, applicable to other cybersecurity and data analysis fields.}
+\end{itemize}
+\begin{itemize}
+    \item{Contribution to Literature by providing a detailed comparison between binary and multi-class approaches for DNS anomaly detection enriches existing literature and offers perspectives for future research in the field. Finally,establishing a correlation among fatures in the binary classification and optimizing hyparameters leading to a high performant model of accuracy 98.34\%}
+\end{itemize}
+\
+\mySectionStar{Work outline}{}{true}
+The rest of this document is organised as follows:\\
+\textbf{Chapter I:Domain name system and machine learning:}In this chapter, we will
+give an overview on DNS, its definition,how DNS works, types of DNS transactions (queries/responses) and servers. Then we will define ML, give a brief review of ML based techniques used in DNS security, some application of ML in cybersecurity. Finally, we will take the case of DNS.\\
+\textbf{Chapter II:State Of the arts on anomaly detection in DNS transactions:}
+In this chapter,
+we will present DNS anomalies,starting from the traditional anomaliy techniques to Ml based techniques in binary and multi-class detection. Then we will present some supervised and unsupervised global ML approaches used in the literature to detect DNS anomalies. Finally, we will present some solutions present in the literature to face binary and multi-class anomaly detection in dns transactions as well as their advantages and disadvantages.\\
+\textbf{Chapter III:Contribution to machine learning-based anomaly detection for DNS transactions:}
+This chapter is dedicated to the presentation of our proposed solutions as well as their implementations. We start by describing our datasets for both binary and multi-class classification. Next, designing the model architecture and description of each component. Again,we will preprocess the data then select our model for training. Next, we will evaluate the results obtained after training based on performance metrics. Finally, we will compare the performance of both architectures together and with related works in a tabular form and discussions.\\
+\textbf{Conclusion and future works:}
+This section is the conclusion of our work which presents the overall functioning of our proposed models and approaches, as well as future works.
+\myCleanStarChapterEnd
